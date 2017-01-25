@@ -1,0 +1,23 @@
+{
+  "name": "node-bot-steps",
+  "version": "0.1.0",
+  "description": "Node Bot Conversation Steps Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejitak/node-bot-steps.git"
+  },
+  "author": "tejitak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejitak/node-bot-steps/issues"
+  },
+  "homepage": "https://github.com/tejitak/node-bot-steps#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
